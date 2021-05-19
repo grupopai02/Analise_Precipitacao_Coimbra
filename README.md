@@ -13,7 +13,7 @@ Este projeto consiste na limpeza e tratamento de um conjunto de dados num fichei
 
 # :notebook_with_decorative_cover: Dicionário dos dados 
 
-Explicação do conteudo no ficheiro 'Precipitação_coimbra.csv' :
+Explicação do conteudo no ficheiro `Precipitação_coimbra.csv` :
 
 |Nome da coluna | Conteudo                                                  |
 |---------------|-----------------------------------------------------------|
