@@ -18,19 +18,19 @@ O repositório está organizado da seguinte forma:
 
 # :satellite: API's Usados
 
-Os dados usados neste projeto, e muito outros semelhantes encontram se no seguinte API: http://api.ipma.pt/#
+Os dados usados neste projeto e muito outros semelhantes, encontram-se no seguinte API: http://api.ipma.pt/#
 
-O ficheiro .csv utilizado vem do seguinte link: https://api.ipma.pt/open-data/observation/climate/precipitation-total/coimbra/
+O ficheiro .csv utilizado obtém-se através do seguinte link: https://api.ipma.pt/open-data/observation/climate/precipitation-total/coimbra/
 
 
 # :notebook_with_decorative_cover: Dicionário dos dados 
 
 Explicação do conteudo no ficheiro `Precipitação_coimbra.csv` :
 
-|Nome da coluna | Conteudo                                                  |Possiveis Valores   |
+|Nome da coluna | Conteúdo                                                  |Possíveis Valores   |
 |---------------|-----------------------------------------------------------|--------------------|
 | Date          | Data dos valores de referência                            |AAAA-MM-DD          |
-| Minimum       | Valor diário minimo de Precipitação total em mm           |Valores decimais    |
+| Minimum       | Valor diário mínimo de Precipitação total em mm           |Valores decimais    |
 | Maximum       | Valor diário máximo de Precipitação total em mm           |Valores decimais    |
 | Range         | Valor diário da amplitude de Precititação total em mm     |Valores decimais    |
 | Mean          | Valor diário da mediana de Precipitação total em mm       |Valores decimais    |
