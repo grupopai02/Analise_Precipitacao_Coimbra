@@ -19,6 +19,7 @@ O repositório está organizado da seguinte forma:
 # :satellite: API's Usados
 
 Os dados usados neste projeto, e muito outros semelhantes encontram se no seguinte API: http://api.ipma.pt/#
+
 O ficheiro .csv utilizado vem do seguinte link: https://api.ipma.pt/open-data/observation/climate/precipitation-total/coimbra/
 
 
