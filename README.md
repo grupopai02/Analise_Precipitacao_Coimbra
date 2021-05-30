@@ -4,7 +4,7 @@
 
 O nosso projeto consiste na limpeza e tratamento de um conjunto de dados de um ficheiro .csv. Os dados referem-se à precipitação no concelho de Coimbra, entre os dias 30 de Janeiro e 28 de Abril de 2021. Este conjunto de dados obtiveram-se diretamente da base de dados do Instituto Português do Mar e da Atmosfera (IPMA).
 
-**O grupo responsavel por este projeto é constituido pelos seguintes elementos: Beatriz Pereira, Joana Lopes, Gonçalo Almeida e João Caetano.**
+**O grupo responsável por este projeto é constituido pelos seguintes elementos: Beatriz Pereira, Joana Lopes, Gonçalo Almeida e João Caetano.**
 
 
 # :bricks: Estrutura
