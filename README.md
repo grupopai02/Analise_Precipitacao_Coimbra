@@ -12,18 +12,25 @@ Este projeto consiste na limpeza e tratamento de um conjunto de dados num fichei
 O repositório está organizado da seguinte forma:
 
 - `Precipitação_coimbra.csv` - Ficheiro que contem os dados que estão a ser tratados. Extraido da base de dados do Instituto Português do Mar e da Atmosfera (IPMA).
-- `Precipitção_coimbra.ipynb` - Fichero em jupiter notebook que contem o código na linguagem python. (ainda em construção)
+- `Precipitção_coimbra.ipynb` - Fichero em jupiter notebook que contem o código na linguagem python.
+- `fundamentação de dados` - Ficheiro word com a fundamentação do conjunto de dados selecionado, pequeno relatório com especificações técnicas.
+
+
+# :satellite: API's Usados
+
+Os dados usados neste projeto, e muito outros semelhantes encontram se no seguinte API: http://api.ipma.pt/#
+O ficheiro .csv utilizado vem do seguinte link: https://api.ipma.pt/open-data/observation/climate/precipitation-total/coimbra/
 
 
 # :notebook_with_decorative_cover: Dicionário dos dados 
 
 Explicação do conteudo no ficheiro `Precipitação_coimbra.csv` :
 
-|Nome da coluna | Conteudo                                                  |
-|---------------|-----------------------------------------------------------|
-| Date          | Data dos valores de referência                            |
-| Minimum       | Valor diário minimo de Precipitação total em mm           |
-| Maximum       | Valor diário máximo de Precipitação total em mm           |
-| Range         | Valor diário da amplitude de Precititação total em mm     |
-| Mean          | Valor diário da mediana de Precipitação total em mm       |
-| Std           | Valor diário do desvio padrão de Precipitação total em mm |
+|Nome da coluna | Conteudo                                                  |Possiveis Valores   |
+|---------------|-----------------------------------------------------------|--------------------|
+| Date          | Data dos valores de referência                            |AAAA-MM-DD          |
+| Minimum       | Valor diário minimo de Precipitação total em mm           |Valores decimais    |
+| Maximum       | Valor diário máximo de Precipitação total em mm           |Valores decimais    |
+| Range         | Valor diário da amplitude de Precititação total em mm     |Valores decimais    |
+| Mean          | Valor diário da mediana de Precipitação total em mm       |Valores decimais    |
+| Std           | Valor diário do desvio padrão de Precipitação total em mm |Valores decimais    |
