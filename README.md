@@ -13,7 +13,7 @@ O repositório está organizado da seguinte forma:
 
 - `Precipitação_coimbra.csv` - Ficheiro que contem os dados que estão a ser tratados. Extraido da base de dados do Instituto Português do Mar e da Atmosfera (IPMA).
 - `Precipitção_coimbra.ipynb` - Fichero em jupiter notebook que contem o código na linguagem python.
-- `fundamentação de dados` - Ficheiro word com a fundamentação do conjunto de dados selecionado, pequeno relatório com especificações técnicas.
+- `fundamentação de dados.pdf` - Ficheiro com a fundamentação do conjunto de dados selecionado, pequeno relatório com especificações técnicas.
 
 
 # :satellite: API's Usados
