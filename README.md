@@ -11,7 +11,7 @@ O nosso projeto consiste na limpeza e tratamento de um conjunto de dados de um f
 
 O repositório está organizado da seguinte forma:
 
-- `Precipitação_coimbra.csv` - Ficheiro que contem os dados que estão a ser tratados. Extraido da base de dados do Instituto Português do Mar e da Atmosfera (IPMA).
+- `Precipitação_coimbra.csv` - Ficheiro extraído da base de dados Instituto Português do Mar e da Atmosfera (IPMA), que contém os dados que vamos tratar no projeto.
 - `Precipitção_coimbra.ipynb` - Fichero em jupiter notebook que contem o código na linguagem python.
 - `fundamentação de dados.pdf` - Ficheiro com a fundamentação do conjunto de dados selecionado, pequeno relatório com especificações técnicas.
 
